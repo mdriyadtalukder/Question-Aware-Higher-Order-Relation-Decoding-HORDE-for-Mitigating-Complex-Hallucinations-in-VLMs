@@ -1,0 +1,135 @@
+[
+  {
+    "question_id": 1,
+    "type": "counterfactual",
+    "image": "bicycle_has_1wheel.jpg",
+    "text": "Is there bicycle has two wheels in the photo?",
+    "label": "no"
+  },
+  {
+    "question_id": 2,
+    "type": "counterfactual",
+    "image": "car_without_wheel.jpg",
+    "text": "Is there car has four wheels in the photo?",
+    "label": "no"
+  },
+  {
+    "question_id": 3,
+    "type": "counterfactual",
+    "image": "plane_on_city.jpg",
+    "text": "Is there plane on runway in the photo?",
+    "label": "no"
+  },
+  {
+    "question_id": 4,
+    "type": "counterfactual",
+    "image": "train_on_fly.jpg",
+    "text": "Is there train on rail in the photo?",
+    "label": "no"
+  },
+  {
+    "question_id": 5,
+    "type": "counterfactual",
+    "image": "running_bird.jpg",
+    "text": "Is there bird flying on a beach in the photo?",
+    "label": "no"
+  },
+  {
+    "question_id": 6,
+    "type": "counterfactual",
+    "image": "running_bird.jpg",
+    "text": "Is there bird flying on the air in the photo?",
+    "label": "no"
+  },
+  {
+    "question_id": 7,
+    "type": "counterfactual",
+    "image": "plane_without_wing.jpg",
+    "text": "Is there plane has wings in the photo?",
+    "label": "no"
+  },
+  {
+    "question_id": 8,
+    "type": "counterfactual",
+    "image": "fish_fly.jpg",
+    "text": "Is there fish swimming in the water in the photo?",
+    "label": "no"
+  },
+  {
+    "question_id": 9,
+    "type": "counterfactual",
+    "image": "horse_without_tail.jpg",
+    "text": "Is there horse has tail in the photo?",
+    "label": "no"
+  },
+  {
+    "question_id": 10,
+    "type": "counterfactual",
+    "image": "bird_swim.jpg",
+    "text": "Is there bird flying in the air in the photo?",
+    "label": "no"
+  },
+  {
+    "question_id": 11,
+    "type": "counterfactual",
+    "image": "person_carry_horse.jpg",
+    "text": "Is there person walking a horse in the photo?",
+    "label": "no"
+  },
+  {
+    "question_id": 12,
+    "type": "illusion",
+    "image": "person_carry_box.jpg",
+    "text": "Is there person carrying box in the photo?",
+    "label": "no"
+  },
+  {
+    "question_id": 13,
+    "type": "illusion",
+    "image": "person_stand_on_person.jpg",
+    "text": "Is there person stand on another person's hand in the photo?",
+    "label": "no"
+  },
+  {
+    "question_id": 14,
+    "type": "illusion",
+    "image": "person_sit_nothing.png",
+    "text": "Is there person sitting on ground in the photo?",
+    "label": "no"
+  },
+  {
+    "question_id": 15,
+    "type": "illusion",
+    "image": "hold_hand.jpg",
+    "text": "Is there person holding another person's hand in the photo?",
+    "label": "no"
+  },
+  {
+    "question_id": 16,
+    "type": "illusion",
+    "image": "person_kiss.jpeg",
+    "text": "Is there person kissing a sculpture in the photo?",
+    "label": "no"
+  },
+  {
+    "question_id": 17,
+    "type": "illusion",
+    "image": "car_on_skateboard.png",
+    "text": "Is there car on skateboard in the photo?",
+    "label": "no"
+  },
+  {
+    "question_id": 18,
+    "type": "illusion",
+    "image": "lick_tower.png",
+    "text": "Is there person licking tower in the photo?",
+    "label": "no"
+  },
+  {
+    "question_id": 19,
+    "type": "illusion",
+    "image": "stand_on_car.jpg",
+    "text": "Is there person stand on cars in the photo?",
+    "label": "no"
+  }
+]
